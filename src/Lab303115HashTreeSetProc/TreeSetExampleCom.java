@@ -12,6 +12,8 @@ public class TreeSetExampleCom {
         cities.add("Karachi");
         cities.add("Xanadu");
         cities.add("Lahore");
+
+
         cities.add("Zagazig");
         cities.add("Yingkou");
 
